@@ -61,5 +61,5 @@ This project reduces manual work, improves accuracy, and provides easy access to
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/khushalvibhute/University-management-system-.git
+   git clone https://github.com/khushalvibhute/University-Management-System.git
    
